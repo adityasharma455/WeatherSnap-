@@ -146,6 +146,7 @@ ViewModels manage UI state and interact with domain use cases.
 domain/  
 Contains business logic including:
 - UseCases
+- models
 - Domain models
 - Repository interfaces
 
