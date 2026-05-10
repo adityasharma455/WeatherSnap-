@@ -102,11 +102,11 @@ The screen also shows an empty state when no reports exist.
 
 | Weather_Screen | Create_Report |
 |------------|--------|
-| ![Weather_Screen](screenshots/Weather_Screen.jpeg) | ![Create_Report](screenshots/Create_Report.jpeg) |
+| ![Weather_Screen](screenshots/WeatherSnap.jpeg) | ![Create_Report](screenshots/CreateWeatherReport.jpeg) |
 
 | Custom_Camera | Saved_Reports |
 |--------|--------|
-| ![Custom_Camera](screenshots/Custom_Camera.jpeg) | ![Saved_Reports](screenshots/Saved_Reports.jpeg) |
+| ![Custom_Camera](screenshots/CustomCamera.jpeg) | ![Saved_Reports](screenshots/SavedReports.jpeg) |
 
 ## Demo Video
 https://your-demo-video-link-here
